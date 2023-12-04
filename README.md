@@ -15,6 +15,6 @@
 
 <br><hr><br>
 <p align="center">
-    <h6>Ana Sayfa:</h6><br>
+    <h6>CONSOL:</h6><br>
     <img src="images/console.png" style="border-radius: 30px;padding:10px " width="800">  
 </p>
